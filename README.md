@@ -44,3 +44,5 @@ I love building scalable AI applications, exploring LLM architectures, and optim
 <img src="https://img.shields.io/badge/BERT-1F425F?style=for-the-badge&logo=google&logoColor=white" />  
 <img src="https://img.shields.io/badge/LLaMA-FF4500?style=for-the-badge&logo=meta&logoColor=white" />  
 </p>  
+
+[![LeetCode user](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/gaurav_1635/)
